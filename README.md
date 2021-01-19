@@ -12,9 +12,12 @@ O
 > Les comptes clients, administrateurs sont automatiquement générés:
 > *création de comptes clients/administrateurs générés via la bdd ou directement avec Wordpress.
 > *Thème Twenty Twenty* généré par Wordpress.
+> 
 > 4.  #### les premiers pas dans votre nouveau site…(création page d'accueil, panier, images,...)
+> 
 > 5. #### installer les plugins:
 > ***Yoast SEO** pour le référencement: indexation des moteurs de recherche.
+>
 > ***WooCommerce** : extension open source pour WordPress permettant de créer une boutique en ligne.
 > ***Polylang**: plugin simple d'utilisation qui vous permettra de traduire un site WordPress facilement.
 > ***Elementor**: constructeur de page pour WordPress, sans coder.
